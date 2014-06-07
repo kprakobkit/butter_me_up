@@ -43,7 +43,7 @@ html {
 }
 body {
   margin: 0;
-  background: url('../IMG_2304.JPG') no-repeat center center fixed;
+  background: url('../backgroundimage.jpg') no-repeat center center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
