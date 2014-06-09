@@ -1,4 +1,7 @@
 .content-23.custom-bg {
-	background: url('../Logo_ButterMeUp_1680x1859_0608.png') no-repeat center fixed;
-	background-size: 25%;
+	background: url('../Logo_ButterMeUp_1680x1859_0608.png') no-repeat center center fixed;
+	background-size: 50%;
+/*	-webkit-background-size: 50%;
+	-moz-background-size: 50%;
+	-o-background-size: 50%;*/
 }
